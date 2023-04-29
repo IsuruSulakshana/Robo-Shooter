@@ -1,0 +1,1 @@
+compile project - g++ main.cpp target.cpp -o a
